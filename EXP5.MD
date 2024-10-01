@@ -1,6 +1,6 @@
 # Ex.No: 5 check the given number is array through binary search and inspect for failures.
 ### DATE:                                                                            
-### REGISTER NUMBER : 212222040034
+### REGISTER NUMBER : 212221040100
 ### AIM: 
 Write a python program to check the number in array through binary search and inspect for failures.
 

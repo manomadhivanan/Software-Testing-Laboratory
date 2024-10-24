@@ -58,7 +58,7 @@ except ValueError:
 
 ![image](https://github.com/user-attachments/assets/6b165f48-0954-43be-8282-a80320c7f738)
 
-
 ### Result:
+
 Thus, the python program to check the number is present in the array or not implemented and the output is verified successfully.
 

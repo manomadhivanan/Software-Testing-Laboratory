@@ -38,21 +38,10 @@ def test_sum_of_digits_negative():
 ```
 
 
-
-
-
-
-
-
-
-
 ### Output:
 ![image](https://github.com/user-attachments/assets/0d28fe04-b47d-4e13-b71a-12f81f9d622b)
 
 
-
-
 ### Result:
 Thus, the python program for sum of digits is tested using pytest and executed and output is verified successfully.
-
 

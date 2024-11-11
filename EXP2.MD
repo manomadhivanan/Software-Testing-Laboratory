@@ -3,7 +3,7 @@
 ### DATE:                                                                           
 ### REGISTER NUMBER : 212221040100
 
-### AIM: 
+### AIM: 20/08/2024
 Write a python program for matrix multiplication and inspect for failures.
  
 ### Algorithm:

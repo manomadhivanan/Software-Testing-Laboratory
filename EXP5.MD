@@ -1,7 +1,7 @@
-# Ex.No: 5 check the given number is present in array or not and inspect for failures.
+# Ex.No: 5 Binary Search
 
 
-# DATE:
+# DATE: 10/09/2024
 # REGISTER NUMBER :212221040100
 
 
